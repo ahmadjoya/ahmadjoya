@@ -1,7 +1,5 @@
-![Banner](/assets/banner.gif)
-
 <!-- welcome message -->
-<h2>Assalamu Alaikum, I am Ahmad Joya. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
+<h2>Hi there, I am Ahmad Joya. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
@@ -13,11 +11,11 @@
 - 🎯 2021 Goals: React Native, TypeScript, NextJS
 - ⚡ Fun Fact: I want to learn everything 🤣
 
-  <a href="https://github.com/devsahinur" target="_blank">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/devsahinur?label=Github&style=flat">
+  <a href="https://github.com/ahmadjoya" target="_blank">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/ahmadjoya?label=Github&style=flat">
   </a>
-  <a href="https://github.com/devsahinur" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=sahinurinfo&label=Views&color=brightgreen&style=flat" alt="devsahinur" />
+  <a href="https://github.com/ahmadjoya" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=sahinurinfo&label=Views&color=brightgreen&style=flat" alt="ahmadjoya" />
   </a>
 
 ## <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25"> Connect with Me
