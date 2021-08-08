@@ -51,6 +51,6 @@
 
 <!-- This is repo start dasbord -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devsahinur&show_icons=true&theme=cobalt&title_color=3cb480&locale=en" alt="devSahinur" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadjoya&show_icons=true&theme=cobalt&title_color=3cb480&locale=en" alt="Ahmad Joya" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devSahinur&show_icons=true&theme=cobalt&title_color=3cb480&locale=en&layout=compact" alt="Sahinur Islam" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmadjoya&show_icons=true&theme=cobalt&title_color=3cb480&locale=en&layout=compact" alt="Ahmad Joya" /></p>
