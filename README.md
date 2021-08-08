@@ -15,7 +15,7 @@
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/ahmadjoya?label=Github&style=flat">
   </a>
   <a href="https://github.com/ahmadjoya" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=sahinurinfo&label=Views&color=brightgreen&style=flat" alt="ahmadjoya" />
+    <img src="https://komarev.com/ghpvc/?username=ahmadjoya&label=Views&color=brightgreen&style=flat" alt="ahmadjoya" />
   </a>
 
 ## <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25"> Connect with Me
