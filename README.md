@@ -6,9 +6,9 @@
 ## I am a JavaScript Lover <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 🔭 These days I'm working on different kinds of projects!
-- 📙 I am currently Learning at **Programming Hero!**
+- 📙 I am currently Learning at **EDX.ORG!**
 - 🌱 I’m currently learning **What i Need**
-- 🎯 2021 Goals: React Native, TypeScript, NextJS
+- 🎯 Goals: Become Expert in React NextJS, TypeScript and Strapi
 - ⚡ Fun Fact: I want to learn everything 🤣
 
   <a href="https://github.com/ahmadjoya" target="_blank">
