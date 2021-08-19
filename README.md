@@ -19,7 +19,7 @@
   </a>
 |GITHUB STATS|MOST USED LANGUAGES|
 |:---:|:---:|
-|[![Ahmad Joya's github stats](https://github-readme-stats.vercel.app/api?username=ahmadjoya&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/ahmadjoya/github-readme-stats)|[![Top Langs](https://github-readme-stats-rust-three.vercel.app/api/top-langs/?username=ahmadjoya&hide=Rich%20Text%20Format,scheme,xml,shell,yaml,haml,php,json,css,sass,scss,javascript,vim%20script&langs_count=10&&exclude_repo=blueprintcode-scalatra-wip-temp-example-2021-08-19,blueprintcode-react-wip-temp-example-2018-02-01,javascript-playground-wip-temp-examples&layout=compact&theme=tokyonight)](https://github.com/ahmadjoya/github-readme-stats)|
+|[![Ahmad Joya's github stats](https://github-readme-stats.vercel.app/api?username=ahmadjoya&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/ahmadjoya/github-readme-stats)|[![Top Langs](https://github-readme-stats-rust-three.vercel.app/api/top-langs/?username=ahmadjoya&hide=Rich%20Text%20Format,scheme,xml,shell,yaml,haml,javascript, php,json,css,sass,scss,vim%20script&langs_count=20&layout=compact&theme=tokyonight)](https://github.com/ahmadjoya/github-readme-stats)|
 
 ## <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25"> Connect with Me
 
