@@ -19,7 +19,7 @@
   </a>
 |GITHUB STATS|MOST USED LANGUAGES|
 |:---:|:---:|
-|[![Ahmad Joya's github stats](https://github-readme-stats.vercel.app/api?username=ahmadjoya&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/ahmadjoya/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadjoya)](https://github.com/ahmadjoya/github-readme-stats)|
+|[![Ahmad Joya's github stats](https://github-readme-stats.vercel.app/api?username=ahmadjoya&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/ahmadjoya/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadjoya&hide=Rich%20Text%20Format,scheme,xml,shell,yaml,haml,php,json,css,sass,scss,javascript,vim%20script&langs_count=10&&exclude_repo=blueprintcode-scalatra-wip-temp-example-2018-02-01,blueprintcode-react-wip-temp-example-2018-02-01,javascript-playground-wip-temp-examples&layout=compact&theme=tokyonight)](https://github.com/ahmadjoya/github-readme-stats)|
 
 ## <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25"> Connect with Me
 
@@ -46,10 +46,5 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
-<!-- This is repo start dasbord -->
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadjoya&show_icons=true&theme=cobalt&title_color=3cb480&locale=en" alt="Ahmad Joya" /></p>
