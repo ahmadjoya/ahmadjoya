@@ -17,6 +17,7 @@
   <a href="https://github.com/ahmadjoya" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=ahmadjoya&label=Views&color=brightgreen&style=flat" alt="ahmadjoya" />
   </a>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadjoya)](https://github.com/ahmadjoya/github-readme-stats)
 |GITHUB STATS|MOST USED LANGUAGES|
 |:---:|:---:|
 |[![Ahmad Joya's github stats](https://github-readme-stats.vercel.app/api?username=ahmadjoya&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/ahmadjoya/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadjoya&hide=Rich%20Text%20Format,scheme,xml,shell,yaml,haml,php,json,css,sass,scss,javascript,vim%20script&langs_count=10&&exclude_repo=blueprintcode-scalatra-wip-temp-example-2018-02-01,blueprintcode-react-wip-temp-example-2018-02-01,javascript-playground-wip-temp-examples&layout=compact&theme=tokyonight)](https://github.com/ahmadjoya/github-readme-stats)|
