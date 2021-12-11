@@ -8,7 +8,7 @@
 - 🔭 These days I'm working on different kinds of projects!
 - 📙 I am currently Learning at **EDX.ORG!**
 - 🌱 I’m currently learning **What i Need**
-- 🎯 Goals: Become Expert in ReactJS, NextJS, TypeScript and Strapi
+- 🎯 Goals: Become Expert in ReactJS, NextJS, Strapi, ExpressJS, Parse Server and TypeScript
 - ⚡ Fun Fact: I want to learn everything 🤣
 
   <a href="https://github.com/ahmadjoya" target="_blank">
