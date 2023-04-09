@@ -2,7 +2,7 @@
 <h2>Hi there, I am Ahmad Joya. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
 
 
-<a href="https://app.daily.dev/ahmadjoya"><img src="https://api.daily.dev/devcards/69e4ca38ca244af7bb6fcf4c21dd7828.png?r=tp8" width="230" alt="Ahmad Joya's Dev Card"/></a>
+<a href="https://app.daily.dev/ahmadjoya" width="230"><img src="https://api.daily.dev/devcards/69e4ca38ca244af7bb6fcf4c21dd7828.png?r=tp8" width="230" alt="Ahmad Joya's Dev Card"/></a>
 ## I am a JavaScript Lover <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 🔭 These days I'm working on different kinds of projects!
