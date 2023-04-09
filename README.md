@@ -14,9 +14,7 @@
   <a href="https://github.com/ahmadjoya" target="_blank">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/ahmadjoya?label=Github&style=flat">
   </a>
-  <a href="https://github.com/ahmadjoya" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=ahmadjoya&label=Views&color=brightgreen&style=flat" alt="ahmadjoya" />
-  </a>
+  <a href="https://app.daily.dev/ahmadjoya"><img src="https://api.daily.dev/devcards/69e4ca38ca244af7bb6fcf4c21dd7828.png?r=tp8" width="400" alt="Ahmad Joya's Dev Card"/></a>
 |GITHUB STATS|MOST USED LANGUAGES|
 |:---:|:---:|
 |[![Ahmad Joya's github stats](https://github-readme-stats.vercel.app/api?username=ahmadjoya&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/ahmadjoya/github-readme-stats)|[![Top Langs](https://github-readme-stats-rust-three.vercel.app/api/top-langs/?username=ahmadjoya&hide=Rich%20Text&langs_count=20&layout=compact&theme=tokyonight)](https://github.com/ahmadjoya/github-readme-stats)|
